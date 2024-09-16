@@ -1,0 +1,24 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-heading {
+  color: black;
+  font-size: 21px;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-style: normal;
+}
+
+.un-ordered-list-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.search-button {
+    height: 24px;
+    width: 400px;
+}

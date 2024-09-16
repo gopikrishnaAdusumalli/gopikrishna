@@ -1,0 +1,24 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  color: black;
+  font-size: 22px;
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+.meal-image {
+  height: 250px;
+  width: 240px;
+}
+
+.paragraph {
+  color: black;
+  font-size: 22px;
+  font-family: "Roboto";
+  font-style: normal;
+}
